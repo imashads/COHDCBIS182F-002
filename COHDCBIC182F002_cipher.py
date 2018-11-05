@@ -33,6 +33,6 @@ def encrypt():
             translated = translated + chr(num)
         else:
             translated = translated + symbol
-        print(translated)
+    print(translated)
 
 encrypt()
